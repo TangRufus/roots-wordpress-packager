@@ -17,6 +17,7 @@
   <!-- Show sniff codes in all reports -->
   <arg value="ns"/>
 
-  <!-- Use PSR-12 as a base -->
+  <!-- Use PSR-2 and PSR-12 as a base -->
+  <rule ref="PSR2"/>
   <rule ref="PSR12"/>
 </ruleset>
