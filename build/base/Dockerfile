@@ -1,4 +1,4 @@
-FROM php:7.3.7-alpine
+FROM php:7.3.10-alpine
 
 WORKDIR /app
 
